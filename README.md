@@ -1,2 +1,4 @@
 # hello-world
-This is a trial repository
+Hello...This is Sandeep Pattanayak, a student of IIT KGP
+
+
